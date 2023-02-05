@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Knight</h1>
 <h3 align="center">A Passionate Junior Developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/101577/screenshots/4875999/media/0a1cc76ab63a4c573c934e56b674f6f9.gif">
+
 
 - 👨‍💻 Some of my projects can be found here [https://portfolio-daniel-knight.vercel.app/](https://portfolio-daniel-knight.vercel.app/)
 
