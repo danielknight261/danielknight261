@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/101577/screenshots/4875999/media/0a1cc76ab63a4c573c934e56b674f6f9.gif">
 
 
-- 👨‍💻 Some of my projects can be found here [https://portfolio-daniel-knight.vercel.app/](https://portfolio-daniel-knight.vercel.app/)
+- 👨‍💻 Some of my projects can be found here [https://portfolio-2-0-virid-seven.vercel.app/](https://portfolio-2-0-virid-seven.vercel.app/)
 
 - 📫 How to reach me **danielknight261@gmail.com**
 
